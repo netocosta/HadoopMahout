@@ -10,9 +10,11 @@ Privilégios de sudo ou root
 
 # Instale OpenJDK no Ubuntu
 
-> sudo apt update
-> sudo apt install openjdk-8-jdk -y
-> java -version; javac -version
+```
+sudo apt update
+sudo apt install openjdk-8-jdk -y
+java -version; javac -version
+```
 
 # Instale OpenSSH no Ubuntu
 
