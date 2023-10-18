@@ -1,6 +1,7 @@
 Baseado nos artigos:
 
 [Como Instalar O Hadoop No Ubuntu 18.04 Ou 20.04](https://elisiogama86.medium.com/como-instalar-o-hadoop-no-ubuntu-18-04-ou-20-04-c1574d5da6d7)
+
 [Instalando Hadoop e Mahout no Ubuntu 16.04 e 18.04](https://medium.com/@ademarcfreitas/instalando-hadoop-e-mahout-no-ubuntu-16-04-e-18-04-b0c640bf4bbd)
 
 # Pré-requisitos
