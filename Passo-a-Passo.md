@@ -5,7 +5,8 @@ Baseado nos artigos:
 
 # Pré-requisitos
 
-Ubuntu 18 ou 20
+(VMWare Workstation Player 17)[https://download3.vmware.com/software/WKST-PLAYER-1702/VMware-player-full-17.0.2-21581411.exe] - Apenas se for usar máquina virtual
+(Ubuntu 20)[https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso]
 Acesso a uma janela de terminal / linha de comando
 Privilégios de sudo ou root
 
